@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python3shuvo
 """
 ===============================================
     ETHICAL HACKERS ᴮᴰ Spam Tool - Educational Edition
